@@ -4469,6 +4469,13 @@ body.is-mobile .banner > article {
   text-align: center;
 }
 
+@media screen and (min-width: 1681px) {
+  #home-logo {
+    height: 437px;
+    width: 658px;
+  }
+}
+
 @media screen and (max-width: 736px) {
   #footer {
     padding: 3rem 0 1rem 0;
