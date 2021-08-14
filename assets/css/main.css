@@ -4474,3 +4474,16 @@ body.is-mobile .banner > article {
     padding: 3rem 0 1rem 0;
   }
 }
+
+@media screen and (min-width: 1681px) {
+  #contact-image {
+    margin-left: 50px;
+    margin-top: 0;
+  }
+}
+
+@media screen and (max-width: 1280px) {
+  #contact-image {
+    display: none;
+  }
+}
